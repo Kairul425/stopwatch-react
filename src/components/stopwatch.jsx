@@ -48,6 +48,7 @@ export default function Stopwatch() {
 
   return (
     <div className="container">
+      <h1 className="judul">Stopwatch by Rull 😀</h1>
       <div className="stopwatch">
         <h3>
           {jam} : {menit} : {detik}
